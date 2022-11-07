@@ -1,0 +1,46 @@
+h1{
+    color: aquamarine;
+}
+body {
+    background-color: antiquewhite;
+}
+#header{
+    background-color:greenyellow;
+    text-align: center;
+}
+
+h1{
+    color: purple;
+}
+
+#header blockquote{
+    background-color: burlywood;
+}
+#soekarno {
+    font-style: italic;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+#link{
+    text-align: center;
+    color:paleturquoise;
+}
+.B {
+    font-size: 650%;
+    color: brown;
+}
+img {
+    width: 25%;
+} 
+
+
